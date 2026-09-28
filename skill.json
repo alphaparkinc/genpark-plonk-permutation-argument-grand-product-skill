@@ -1,0 +1,20 @@
+{
+  "name": "genpark-plonk-permutation-argument-grand-product-skill",
+  "version": "1.0.0",
+  "description": "Plonk grand product copy-constraint permutation argument tracking wire routing equality",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "plonk",
+    "permutation-argument",
+    "grand-product",
+    "copy-constraints",
+    "zero-knowledge",
+    "python-standard-library",
+    "agent-skills",
+    "zk-snark",
+    "cryptography",
+    "arithmetic-circuits"
+  ]
+}
